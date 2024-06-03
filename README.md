@@ -2,3 +2,6 @@
 ## Présentation du projet
 
 blabla blabla blabla blabla
+
+## Organization
+Denis
