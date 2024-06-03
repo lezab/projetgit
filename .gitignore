@@ -2,3 +2,5 @@ src/database_connect.conf
 bin/
 *.scss
 *.sass
+!extras/boostrap_icon.scss
+
