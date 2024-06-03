@@ -1,2 +1,4 @@
 src/database_connect.conf
 bin/
+*.scss
+*.sass
